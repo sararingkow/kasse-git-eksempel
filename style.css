@@ -14,3 +14,7 @@ p {
 body {
   background-color: black;
 }
+
+header {
+  background-color: rgb(45, 45, 45);
+}
